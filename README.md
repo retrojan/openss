@@ -1,1 +1,1 @@
-# openss
+# Simple Steam open source code
